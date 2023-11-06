@@ -1,0 +1,11 @@
+F:\CSharp\Casino_in_cs\Casino_in_cs\bin\Debug\netcoreapp2.0\Casino_in_cs.deps.json
+F:\CSharp\Casino_in_cs\Casino_in_cs\bin\Debug\netcoreapp2.0\Casino_in_cs.runtimeconfig.json
+F:\CSharp\Casino_in_cs\Casino_in_cs\bin\Debug\netcoreapp2.0\Casino_in_cs.runtimeconfig.dev.json
+F:\CSharp\Casino_in_cs\Casino_in_cs\bin\Debug\netcoreapp2.0\Casino_in_cs.dll
+F:\CSharp\Casino_in_cs\Casino_in_cs\bin\Debug\netcoreapp2.0\Casino_in_cs.pdb
+F:\CSharp\Casino_in_cs\Casino_in_cs\obj\Debug\netcoreapp2.0\Casino_in_cs.csproj.AssemblyReference.cache
+F:\CSharp\Casino_in_cs\Casino_in_cs\obj\Debug\netcoreapp2.0\Casino_in_cs.csproj.CoreCompileInputs.cache
+F:\CSharp\Casino_in_cs\Casino_in_cs\obj\Debug\netcoreapp2.0\Casino_in_cs.AssemblyInfoInputs.cache
+F:\CSharp\Casino_in_cs\Casino_in_cs\obj\Debug\netcoreapp2.0\Casino_in_cs.AssemblyInfo.cs
+F:\CSharp\Casino_in_cs\Casino_in_cs\obj\Debug\netcoreapp2.0\Casino_in_cs.dll
+F:\CSharp\Casino_in_cs\Casino_in_cs\obj\Debug\netcoreapp2.0\Casino_in_cs.pdb
